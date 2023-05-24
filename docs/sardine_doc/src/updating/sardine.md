@@ -1,6 +1,6 @@
 # Sardine
 
-This section is about fixing errors in `fishery`. `fishery` is Sardine's playing environment.
+This section is about fixing errors in Sardine's playing environment.
 
 ## UVLoop is not installed
 
